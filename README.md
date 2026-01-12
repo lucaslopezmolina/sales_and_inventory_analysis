@@ -13,7 +13,7 @@
 -Build Power BI dashboards for business users
 -Translate insights into commercial and operational recommendations
 
-##Tools & Technologies
+## Tools & Technologies
 
 -PostgreSQL (SQL modeling & queries)
 -DBeaver (database management)
